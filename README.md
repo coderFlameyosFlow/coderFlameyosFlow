@@ -19,3 +19,6 @@ What IDES do I use?
 
 How can you reach me?
 - You may reach me via my discord at **FlameyosFlow#2691**. 👍
+
+Do you have any projects?
+- Most of my projects are private, although you can check my public projects on my github pinned.
