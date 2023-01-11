@@ -18,11 +18,12 @@ What IDES do I use?
 - **Visual Studio** Code
 
 Programming journey?
-Throughout my programming journey, **I've been a VERY fast learner in terms of Java and Kotlin** (Thanks to python speeding up my basic learning with stuff such as OOP)
-In only the first three months, I learnt about (big bois only):
+Throughout my programming journey, **I've been a VERY fast learner in terms of Java and Kotlin** (Thanks to python speeding up my basic learning with stuff such as OOP).
+
+in only the first three months, I learnt about (big bois only):
 - Reflection
 - Intermediate level Java (stable, clean, performant and optimized code)
-- Bukkit and Spigot (fully) and **Paper** APIs
+- Bukkit and Spigot (fully) and **Paper** APIs (That excludes proxies and NMS)
 - Popular APIs such as VaultAPI
 - How to write clean and optimized code
 - Experience with K2 Compiler (Kotlin new compiler)
