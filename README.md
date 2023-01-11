@@ -19,13 +19,16 @@ What IDES do I use?
 
 Programming journey?
 Throughout my programming journey, **I've been a VERY fast learner in terms of Java and Kotlin** (Thanks to python)
-In only four months, I learnt about (big bois only):
+In only three months, I learnt about (big bois only):
 - Reflection
-- Intermediate-Expert level Java (stable, clean, performant and optimized code)
-- Bukkit, Spigot and **Paper** APIs
+- Intermediate level Java (stable, clean, performant and optimized code)
+- Bukkit and Spigot (fully) and **Paper** APIs
 - Popular APIs such as VaultAPI
 - How to write clean and optimized code
-- Aikar's flags and Open J9
+- Experience with K2 Compiler (Kotlin new compiler)
+- Aikar's flags and Open J9 (Java)
+
+I'm most likely learning
 
 How can you reach me?
 - You may reach me via my discord at **FlameyosFlow#2691**. 👍
