@@ -10,12 +10,22 @@ Here are my **SKILLS** and their priorities:
 - Nextcord, a python fork of discord.py to help create discord bots!
 
 What operating system do I use? 
-- I use **XUbuntu 22.04 and XFCE 4.16 with the cloned looks of Windows 10** (DM in Discord to know how to do that and how it looks.)
+- I use **XUbuntu 22.04 and XFCE 4.16**
 
 What IDES do I use?
 - **Intellij IDEA** Community
 - **PyCharm** Community
 - **Visual Studio** Code
+
+Programming journey?
+Throughout my programming journey, **I've been a VERY fast learner in terms of Java and Kotlin** (Thanks to python)
+In only four months, I learnt about (big bois only):
+- Reflection
+- Intermediate-Expert level Java (stable, clean, performant and optimized code)
+- Bukkit, Spigot and **Paper** APIs
+- Popular APIs such as VaultAPI
+- How to write clean and optimized code
+- Aikar's flags and Open J9
 
 How can you reach me?
 - You may reach me via my discord at **FlameyosFlow#2691**. 👍
