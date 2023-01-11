@@ -18,8 +18,8 @@ What IDES do I use?
 - **Visual Studio** Code
 
 Programming journey?
-Throughout my programming journey, **I've been a VERY fast learner in terms of Java and Kotlin** (Thanks to python)
-In only three months, I learnt about (big bois only):
+Throughout my programming journey, **I've been a VERY fast learner in terms of Java and Kotlin** (Thanks to python speeding up my basic learning with stuff such as OOP)
+In only the first three months, I learnt about (big bois only):
 - Reflection
 - Intermediate level Java (stable, clean, performant and optimized code)
 - Bukkit and Spigot (fully) and **Paper** APIs
@@ -28,7 +28,7 @@ In only three months, I learnt about (big bois only):
 - Experience with K2 Compiler (Kotlin new compiler)
 - Aikar's flags and Open J9 (Java)
 
-I'm most likely learning
+I'm most likely learning other big things as you're reading this
 
 How can you reach me?
 - You may reach me via my discord at **FlameyosFlow#2691**. 👍
