@@ -1,5 +1,5 @@
 ## About ME
-- 👋 Hello, I’m @coderFlameyosFlow, my real name is **Eyad Amr!**
+- 👋 Hello, I’m @coderFlameyosFlow!
 - I am a 13 year old developer that loves to develop minecraft plugins and intermediete necessities.
 - I'm currently forwarding to learn SQL at first, the C family (C, C++, C#) at second, and web development (HTML, CSS) at last in the future!
 
