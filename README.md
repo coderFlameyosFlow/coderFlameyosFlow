@@ -10,7 +10,7 @@ Here are my **SKILLS** and their priorities:
 - Nextcord, a python fork of discord.py to help create discord bots!
 
 What operating system do I use? 
-- I use **XUbuntu 22.04 and XFCE 4.16**
+- I use **Vanilla Arch Linux with KDE Plasma**
 
 What IDES do I use?
 - **Intellij IDEA** Community
