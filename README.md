@@ -10,7 +10,7 @@ Here are my **SKILLS** and their priorities:
 - Nextcord, a python fork of discord.py to help create discord bots!
 
 What operating system do I use? 
-- I use **Vanilla Arch Linux with KDE Plasma**
+- I use **Vanilla Arch Linux with XFCE**
 
 What IDES do I use?
 - **Intellij IDEA** Community
@@ -18,16 +18,17 @@ What IDES do I use?
 - **Visual Studio** Code
 
 Programming journey?
-Throughout my programming journey, **I've been a VERY fast learner in terms of Java and Kotlin** (Thanks to python speeding up my basic learning with stuff such as OOP).
+Throughout my programming journey, **I've been a VERY fast learner in terms of JVM** (Thanks to python speeding up my basic learning with stuff such as OOP).
 
-in only the first three months, I learnt about (big bois only):
+As of now I know:
 - Reflection
 - Intermediate level Java (stable, clean, performant and optimized code)
-- Bukkit and Spigot (fully) and **Paper** APIs (That excludes proxies and NMS)
-- Popular APIs such as VaultAPI
+- Bukkit, Spigot and Paper Server APIs, and Velocity Proxy APIs (That excludes NMS)
+- Popular APIs such as Vault API
 - How to write clean and optimized code
 - Experience with K2 Compiler (Kotlin new compiler)
 - Aikar's flags and Open J9 (Java)
+- HikariCP for SQL instead of java.sql
 
 I'm most likely learning other big things as you're reading this
 
