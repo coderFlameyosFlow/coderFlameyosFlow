@@ -1,5 +1,6 @@
 ## About ME
 - 👋 Hello, I’m @coderFlameyosFlow!
+- I am a **13 year old, Egyptian Minecraft developer**.
 
 Here are my **SKILLS** and their priorities:
 - Java and Kotlin, and my priorities are bukkit (and higher), velocity development and databases.
