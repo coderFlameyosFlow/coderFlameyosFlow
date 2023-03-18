@@ -5,6 +5,7 @@
 Here are my **SKILLS** and their priorities:
 - Java and Kotlin, and my priorities are bukkit (and higher), velocity development and databases.
 - MongoDB, and my priorities are all programming languages I know.
+- SQL, and my priorities are Java using HikariCP.
 - Python, and my priorities are discord bot development
 - Nextcord, a python fork of discord.py to help create discord bots!
 
@@ -23,3 +24,8 @@ How can you reach me?
 
 Do you have any projects?
 - Most of my projects are private, although you can check my public projects on my github pinned.
+
+Although, my best projects were:
+- Minecraft Mania Event Game Development
+- [Greenbank, a new and optimized sonic-speed economy plugin with many database options](https://github.com/coderFlameyosFlow/Greenbank/)
+- [Flowcore, a rewritten version of EssentialsX designed for speed and customizability](https://github.com/coderFlameyosFlow/Flowcore-docs/)
