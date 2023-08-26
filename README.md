@@ -1,10 +1,8 @@
 ## About ME
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderFlameyosFlow&repo=WoodyMenus&theme=radical&bg_color=00000000)](https://github.com/coderFlameyosFlow/WoodyMenus)
-[![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=coderFlameyosFlow&repo=FlameWare&theme=radical&bg_color=00000000)](https://github.com/coderFlameyosFlow/FlameWare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderFlameyosFlow&repo=WoodyMenus&theme=radical&bg_color=00000000)](https://github.com/coderFlameyosFlow/WoodyMenus) [![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=coderFlameyosFlow&repo=FlameWare&theme=radical&bg_color=00000000)](https://github.com/coderFlameyosFlow/FlameWare)
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderFlameyosFlow&show_icons=true&theme=radical&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderFlameyosFlow&show_icons=true&theme=radical&langs_count=10&layout=donut&bg_color=00000000)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderFlameyosFlow&show_icons=true&theme=radical&langs_count=10&layout=donut&bg_color=00000000)] ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderFlameyosFlow&show_icons=true&theme=radical&bg_color=00000000)
 
 - 👋 Hello, I’m @coderFlameyosFlow!
 - I am a **13 year old, Egyptian Minecraft developer** who is **addicted to performance**.
